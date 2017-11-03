@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "STProcessorTask",
+	"category" : "SmallTasksUI-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STMapperTask",
+	"type" : "normal"
+}

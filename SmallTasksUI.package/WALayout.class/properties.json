@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "UlisesJeremias 10/21/2017 21:08",
+	"super" : "WAComponent",
+	"category" : "SmallTasksUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header"
+	],
+	"name" : "WALayout",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "STProcessorTask",
+	"category" : "SmallTasksUI-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"path"
+	],
+	"name" : "STStorageTask",
+	"type" : "normal"
+}

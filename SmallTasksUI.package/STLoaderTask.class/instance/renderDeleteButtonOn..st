@@ -1,0 +1,2 @@
+rendering
+renderDeleteButtonOn: html

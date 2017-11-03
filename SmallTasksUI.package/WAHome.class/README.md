@@ -1,0 +1,1 @@
+This class corresponds to a root component in the main app.

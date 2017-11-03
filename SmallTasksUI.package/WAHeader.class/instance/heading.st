@@ -1,0 +1,3 @@
+private
+heading
+	^ heading
