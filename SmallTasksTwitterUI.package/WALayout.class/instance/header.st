@@ -1,0 +1,3 @@
+protected
+header
+	^ header

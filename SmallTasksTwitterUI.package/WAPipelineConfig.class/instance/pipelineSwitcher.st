@@ -1,0 +1,3 @@
+protected
+pipelineSwitcher
+	^ pipelineSwitcher 

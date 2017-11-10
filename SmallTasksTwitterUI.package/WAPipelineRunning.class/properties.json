@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WALayout",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pipeline"
+	],
+	"name" : "WAPipelineRunning",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+This class corresponds to the pipeline config section of the smalltasks ide.
