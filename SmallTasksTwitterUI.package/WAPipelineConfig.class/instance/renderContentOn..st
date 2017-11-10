@@ -7,8 +7,7 @@ renderContentOn: html
 						mediumSize: 5;
 						largeSize: 5;
 						class: 'text-center';
-						with: [ html heading level3 with: 'Select a task'.
-							self renderNonSelectedTasksOn: html ].
+						with: [ self renderNonSelectedTasksOn: html ].
 					html tbsColumn
 						mediumSize: 2;
 						largeSize: 2.
@@ -16,7 +15,7 @@ renderContentOn: html
 						mediumSize: 5;
 						largeSize: 5;
 						class: 'text-center';
-						with: [ self renderCurrentTasksOn: html  ] ].
+						with: [ self renderCurrentTasksOn: html ] ].
 			html
 				tbsRow: [ html tbsColumn
 						mediumSize: 12;

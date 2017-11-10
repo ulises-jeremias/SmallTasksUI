@@ -2,5 +2,5 @@ initialization
 initialize
 	super initialize.
 	self
-		taskGeneratorList: (STTTaskList newWithId: 'optionTaskList' tasks: self defaultServicesProvider);
+		taskGeneratorList: STTTaskProvider new;
 		pipelineSwitcher: STTPipelineSwitcher new
