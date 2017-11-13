@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"renderNonSelectedTasksOn:" : " 11/10/2017 16:55:30",
+		"children" : " 11/10/2017 16:55:30",
+		"pipelineSwitcher:" : " 11/10/2017 16:55:30",
+		"renderContentOn:" : " 11/10/2017 16:55:30",
+		"taskGeneratorList" : " 11/10/2017 16:55:30",
+		"renderCurrentTasksOn:" : " 11/10/2017 16:55:30",
+		"taskGeneratorList:" : " 11/10/2017 16:55:30",
+		"initialize" : "UlisesJeremias 11/10/2017 23:53",
+		"section" : " 11/10/2017 16:55:30",
+		"pipelineSwitcher" : " 11/10/2017 16:55:30"
+	},
+	"class" : {
+		"initialize" : " 11/10/2017 16:55:30"
+	}
+}

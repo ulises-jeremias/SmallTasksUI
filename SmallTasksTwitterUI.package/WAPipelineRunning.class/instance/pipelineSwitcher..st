@@ -1,3 +1,3 @@
 accessing
-pipeline: aCollection
+pipelineSwitcher: aCollection
 	pipeline := aCollection

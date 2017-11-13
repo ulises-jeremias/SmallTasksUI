@@ -2,5 +2,5 @@ initialization
 initialize
 	super initialize.
 	self
-		taskGeneratorList: STTTaskProvider new;
-		pipelineSwitcher: STTPipelineSwitcher new
+		pipelineSwitcher: SmallTasksToolkit controller taskController pipelineSwitcher;
+		taskGeneratorList: (SmallTasksToolkit controller taskController taskProviderFor: self pipelineSwitcher)
