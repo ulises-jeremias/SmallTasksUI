@@ -1,15 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "WALayout",
+	"super" : "WAComponent",
 	"category" : "SmallTasksTwitterUI-WebApp",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"app",
-		"componentsList",
-		"state"
-	],
-	"name" : "WAPipelineRunning",
+	"instvars" : [ ],
+	"name" : "WAAppState",
 	"type" : "normal"
 }

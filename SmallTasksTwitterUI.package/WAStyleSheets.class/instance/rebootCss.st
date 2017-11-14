@@ -49,4 +49,48 @@ a:hover {
   line-height: 1.33;
   border-radius: 35px;
 }
+
+.btn-outline-rounded {
+  padding: 10px 40px;
+  margin: 20px 0;
+  border: 2px solid transparent;
+  border-radius: 25px;
+}
+
+.btn.green {
+  background-color: #5cb85c;
+  border: 1px solid #5cb85c;
+  color: #ffffff;
+}
+
+.btn.red { 
+	background-color: #d9534f;
+	border: 1px solid #d9534f;
+  	color: #ffffff;
+}
+
+.btn.yellow { 
+	background-color: #febe29;
+	border: 1px solid #febe29;
+	color: #ffffff;
+}
+
+.btn.blue { 
+	background-color: #265a88;
+	border: 1px solid #265a88;
+	color: #ffffff;
+}
+
+.btn.light-blue { 
+	background-color: #5bc0de;
+	border: 1px solid #5bc0de;
+	color: #ffffff;
+}
+
+@media( max-width: 585px) {
+  .btn-outline-rounded {
+    padding: 12px 20px;
+  }
+}
+
 '

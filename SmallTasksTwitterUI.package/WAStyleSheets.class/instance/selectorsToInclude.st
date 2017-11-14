@@ -1,3 +1,3 @@
 accessing
 selectorsToInclude
-	^ #(mainCss rebootCss gridCss commonCss navbarCss pipelineCss)
+	^ #(mainCss rebootCss gridCss commonCss navbarCss homeCss pipelineCss)

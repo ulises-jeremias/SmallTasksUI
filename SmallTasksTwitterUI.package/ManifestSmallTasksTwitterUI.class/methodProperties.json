@@ -1,9 +1,0 @@
-{
-	"instance" : { },
-	"class" : {
-		"ruleRBMissingTranslationsInMenusRuleV1FalsePositive" : "UlisesJeremias 11/11/2017 03:24",
-		"ruleRBUtilityMethodsRuleV1FalsePositive" : "UlisesJeremias 11/11/2017 03:24",
-		"ruleRBLongMethodsRuleV1FalsePositive" : "UlisesJeremias 11/11/2017 03:24",
-		"ruleRBBadMessageRuleV1FalsePositive" : "UlisesJeremias 11/11/2017 03:24"
-	}
-}

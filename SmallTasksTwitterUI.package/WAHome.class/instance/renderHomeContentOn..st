@@ -11,4 +11,5 @@ renderHomeContentOn: html
 		with: [ html anchor
 				url: 'pipeline/config';
 				class: 'btn green btn-outline-rounded';
+				
 				with: 'Start using SmallTasks' ]

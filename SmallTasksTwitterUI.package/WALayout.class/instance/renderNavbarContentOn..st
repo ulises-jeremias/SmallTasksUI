@@ -1,6 +1,8 @@
 rendering
 renderNavbarContentOn: html
-	html tbsNavbar beDefault
+	html tbsNavbar
+		beInverse;
+		class: 'navbar-fixed-top';
 		with: [ html
 				tbsContainer: [ html
 						tbsNavbarHeader: [ html tbsNavbarBrand

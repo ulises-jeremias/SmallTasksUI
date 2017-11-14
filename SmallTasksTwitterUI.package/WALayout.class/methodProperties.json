@@ -1,15 +1,15 @@
 {
 	"instance" : {
 		"header:" : " 11/10/2017 16:55:30",
-		"renderNavbarContentOn:" : " 11/10/2017 16:55:30",
-		"initialize" : " 11/10/2017 16:55:30",
+		"renderNavbarContentOn:" : "UlisesJeremias 11/14/2017 12:26",
+		"initialize" : "UlisesJeremias 11/13/2017 16:11",
 		"updateRoot:" : " 11/10/2017 16:55:30",
-		"renderContentOn:" : " 11/10/2017 16:55:30",
+		"renderContentOn:" : "UlisesJeremias 11/14/2017 12:28",
 		"section" : " 11/10/2017 16:55:30",
 		"children" : " 11/10/2017 16:55:30",
 		"header" : " 11/10/2017 16:55:30"
 	},
 	"class" : {
-		"register:" : " 11/10/2017 16:55:30"
+		"register:" : "UlisesJeremias 11/13/2017 00:20"
 	}
 }
