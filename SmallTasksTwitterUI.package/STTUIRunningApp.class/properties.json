@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "STTUIAppState",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STTUIRunningApp",
+	"type" : "normal"
+}

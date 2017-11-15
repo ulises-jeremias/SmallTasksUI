@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "UlisesJeremias 11/13/2017 00:11",
+	"super" : "STTUILayout",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taskGeneratorList",
+		"pipelineSwitcher"
+	],
+	"name" : "STTUIPipelineConfig",
+	"type" : "normal"
+}

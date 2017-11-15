@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "STTUILayout",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"app",
+		"componentsList",
+		"state"
+	],
+	"name" : "STTUIPipelineRunning",
+	"type" : "normal"
+}

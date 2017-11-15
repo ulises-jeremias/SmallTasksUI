@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"heading",
+		"section"
+	],
+	"name" : "STTUILayoutHeader",
+	"type" : "normal"
+}

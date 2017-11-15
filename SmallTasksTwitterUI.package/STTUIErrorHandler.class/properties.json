@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WAErrorHandler",
+	"category" : "SmallTasksTwitterUI-Handler",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STTUIErrorHandler",
+	"type" : "normal"
+}

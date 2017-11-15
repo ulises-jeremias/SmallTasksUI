@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "STTUILayout",
+	"category" : "SmallTasksTwitterUI-WebApp",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STTUIHome",
+	"type" : "normal"
+}
