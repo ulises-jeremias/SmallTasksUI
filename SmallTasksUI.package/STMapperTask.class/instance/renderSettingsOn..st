@@ -1,3 +1,0 @@
-rendering
-renderSettingsOn: html
-	

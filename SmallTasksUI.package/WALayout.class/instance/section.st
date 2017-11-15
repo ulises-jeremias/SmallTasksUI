@@ -1,3 +1,0 @@
-accessing
-section
-	^ self subclassResponsibility 

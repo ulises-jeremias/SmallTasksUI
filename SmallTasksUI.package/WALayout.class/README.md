@@ -1,1 +1,0 @@
-This class corresponds to a usefull layout wich could be extended.

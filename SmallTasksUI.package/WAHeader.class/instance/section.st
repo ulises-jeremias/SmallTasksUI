@@ -1,3 +1,0 @@
-private
-section
-	^ section
