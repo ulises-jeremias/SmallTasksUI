@@ -1,0 +1,3 @@
+actions
+saveContext
+	SmallTasksToolkit controller app resetComponentsCollection 
