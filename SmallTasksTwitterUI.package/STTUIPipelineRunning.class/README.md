@@ -1,0 +1,1 @@
+This class corresponds to the pipeline running section of the smalltasks ui.
